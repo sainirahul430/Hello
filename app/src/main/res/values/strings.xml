@@ -8,5 +8,12 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="issue">Issue:</string>
+    <string name="rate_the_solution">Rate The Solution</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="reopen_the_problem">Reopen The problem</string>
+    <string name="input_your_suggestion">Input your suggestion...</string>
+    <string name="unsatisfied_n_reopen_the_problem">Unsatisfied?\nReopen the problem</string>
+    <string name="submit">Submit</string>
 
 </resources>
